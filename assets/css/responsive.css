@@ -1064,5 +1064,9 @@
     /* padding-top: 45px; */
     padding-top: 80px;
   }
+
+  .rotate-custom{
+    rotate: 90deg;
+  }
   
 }
