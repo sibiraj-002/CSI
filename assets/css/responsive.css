@@ -1002,7 +1002,7 @@
 .background-image {
     width: 100%;
     display: block;
-    height: 600px;
+    height: 640px;
   }
   
   .foreground-image {
@@ -1036,7 +1036,7 @@
   }
 
   .rec-font{
-    font-weight: 100;
+    /* font-weight: 100; */
     font-size: x-small;
   }
 
