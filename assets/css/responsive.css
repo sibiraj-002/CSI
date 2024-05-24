@@ -1054,4 +1054,15 @@
   .settings-font{
     font-size: 10px;
   }
+
+  .main-site {
+    /* padding-top: 45px; */
+    padding-top: 100px;
+  }
+  
+  .main-site1 {
+    /* padding-top: 45px; */
+    padding-top: 80px;
+  }
+  
 }
