@@ -160,17 +160,19 @@ img {
 }
 
 .site-header {
-  /* margin-top: 20px;
-  width: 100%;
-  top: 0;
-  left: 0; */
   margin-top: 20px;
   width: 100%;
   top: 0;
   left: 0;
   position: absolute;
   z-index: 100;
-  right: 0;
+  /* margin-top: 20px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: 100;
+  right: 0; */
 }
 
 .site-header.head-sticky {
@@ -320,8 +322,15 @@ img {
 }
 
 .main-site {
-  padding-top: 45px;
+  /* padding-top: 45px; */
+  padding-top: 150px;
 }
+
+.main-site1 {
+  /* padding-top: 45px; */
+  padding-top: 90px;
+}
+
 
 .hero-banner .banner-content {
   position: relative;
