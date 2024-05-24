@@ -1068,5 +1068,13 @@
   .rotate-custom{
     rotate: 90deg;
   }
+
+  .content {
+    width: 90%;
+  }
+
+
+
+
   
 }

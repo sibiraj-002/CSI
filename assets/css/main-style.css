@@ -1,12 +1,17 @@
-@import url("https://use.typekit.net/vqy3vry.css");
+/* @import url("https://use.typekit.net/vqy3vry.css"); */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 @font-face {
   font-family: montserrat;
   src: url("../fonts/montserrat.ttf");
 }
 
+/*   font-family: "Lato", sans-serif;
+ */
 :root {
-  --first-font: "montserrat", sans-serif;
+  /* --first-font: "montserrat", sans-serif; */
+  --first-font: "Lato", sans-serif;
   --theme-color: #7e3f98;
   --second-color: #e5ecf4;
   --third-color: #ffeaf1;
@@ -2989,7 +2994,8 @@ height: 100%;
   padding: 0px;
   margin: auto;
   border-radius: 30px; /* Optional: for rounded corners */
-  width: 700px;
+  /* width: 700px; */
+  width: 480px;
   height: 60px;
   display: flex;
   justify-content: center;
